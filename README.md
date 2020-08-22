@@ -1,7 +1,7 @@
 # Keylogger
-Created a keylogger using Python in PyCharm. Utilized the pynput module.
+I created a keylogger using Python in PyCharm. 
 
-pynput is a third party module, not included in the Python default installation.
+Utilized the pynput module, a third party module not included in the default Python installation.
 
 Install pynput by doing the following:
 1) Open Command Prompt
